@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0TheTrooper0
-- 👀 I’m interested in php,js,html,css
+- 👀 I’m interested in C,php,laravel,js,html,css
 - - 🌱 I’m currently learning php,js,html,css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
